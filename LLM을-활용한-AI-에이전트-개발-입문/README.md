@@ -71,3 +71,11 @@ pip install streamlit
 ```bash
 streamlit run streamlit_basic.py
 ```
+
+## [4장 문서와 논문을 요약하는 AI연구원](./chap04/)
+
+```bash
+pip install PyMuPDF
+```
+
+PDF는 텍스트 영역이 선택되는 문서를 사용해야한다.
