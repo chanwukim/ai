@@ -2,5 +2,6 @@
 !.env.example
 
 venv/
+.venv/
 
 .DS_Store
